@@ -1,0 +1,322 @@
+@import url('https://fonts.googleapis.com/css2?family=Asul:wght@400;700&family=Pirata+One&display=swap');
+
+
+@media (max-width: 428px) {
+
+  body{
+    margin: 0;
+    background-color: black;
+  }
+
+  .encabezado1 {
+    display: flex;
+    text-align: left;
+    margin-left: 16px;
+    margin-right: 16px;
+    margin-top: 10px;
+    font-size: 18px;
+    color: white;
+    font-family: 'Pirata One', cursive;
+  }
+
+  .imgLogo{
+    height: 50px;
+  }
+
+  .iconoMenu{
+    height: 30px;
+    width: 30px;
+    margin-left: 230px;
+    margin-top: 10px;
+  }
+
+  .encabezado2 {
+    font-size: 52px;
+    text-align: center;
+    color: white;
+    font-family: 'Pirata One', cursive;
+    margin-top: -50px;
+  }
+
+  .texto1{
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    font-family: 'Asul', sans-serif;
+    margin-top: -30px;
+  }
+
+  .boton-cta{
+  background-color: #D2273E;
+  border: none;
+  color: white;
+  padding: 10px 40px;
+  text-align: center;
+  font-family: 'Asul', sans-serif, bold;
+  font-size: 24px;
+  display: block;
+  margin-top: 30px;
+  margin-right: auto;
+  margin-left: auto;
+  }
+
+  .cadena1{
+    margin-top: -420px;
+  }
+
+  .encabezado3 {
+    font-size: 44px;
+    text-align: center;
+    color: white;
+    font-family: 'Pirata One', cursive;
+    margin-top: -350px;
+  }
+
+
+.texto2{
+  text-align: center;
+  color: white;
+  font-size: 22px;
+  font-family: 'Asul', sans-serif;
+  display: block;
+  margin-right: 50px;
+  margin-left: 50px;
+
+}
+
+.encabezado4 {
+  font-size: 44px;
+  text-align: center;
+  color: white;
+  font-family: 'Pirata One', cursive;
+  margin-top: 100px;
+}
+
+.encabezado5{
+  display: flex;
+  margin-left: 50px;
+  margin-top: -20px;
+  text-align: left;
+  font-size: 26px;
+  color: white;
+  font-family: 'Pirata One', cursive;
+}
+
+.handmade{
+  height: 55px;
+  margin-right: 25px;
+  margin-left: -20px;
+  margin-top:  30px;
+}
+
+.texto3{
+  text-align: left;
+  margin-left: 110px;
+  margin-top: -40px;
+  color: white;
+  font-size: 22px;
+  font-family: 'Asul', sans-serif;
+}
+
+.calidad{
+  height: 55px;
+  margin-right: 25px;
+  margin-left: -20px;
+  margin-top:  30px;
+}
+
+.personalizable{
+  height: 55px;
+  margin-right: 25px;
+  margin-left: -20px;
+  margin-top:  30px;
+}
+
+.cadena2{
+  margin-top: -390px;
+}
+
+.encabezado6 {
+  font-size: 44px;
+  text-align: center;
+  color: white;
+  font-family: 'Pirata One', cursive;
+  margin-top: -400px;
+}
+
+.texto4{
+  text-align: center;
+  color: white;
+  font-size: 22px;
+  font-family: 'Asul', sans-serif;
+  display: block;
+  margin-right: 50px;
+  margin-left: 50px;
+}
+
+.carousel{
+  margin-top: -70px;
+}
+
+.cadena3{
+  margin-top: -100px;
+}
+
+.encabezado7{
+  font-size: 44px;
+  text-align: center;
+  color: white;
+  font-family: 'Pirata One', cursive;
+  margin-top: -180px;
+}
+
+
+.formulario{
+  background-color: #2F2F2F;
+  padding: 10px;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-bottom: 30px;
+  text-align: center;
+  color: white;
+  font-size: 16px;
+  font-family: 'Asul', sans-serif;
+}
+
+
+.row0{
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+.dropdown{
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+.enviar{
+background-color: #D2273E;
+border: none;
+color: white;
+padding: 10px 40px;
+text-align: center;
+font-family: 'Asul', sans-serif, bold;
+font-size: 22px;
+display: block;
+margin-top: 30px;
+margin-right: auto;
+margin-left: auto;
+}
+
+.page-footer{
+  font-size: 16px;
+  font-family: 'Asul', sans-serif;
+}
+
+.columna{
+  display: flex;
+  text-align: left;
+}
+
+.text1{
+  font-size: 32px;
+  font-family: 'Pirata One', cursive;
+  color: white;
+  margin-left: 20px;
+  margin-bottom: 50px;
+  margin-top: 5px;
+}
+
+.text2{
+  font-size: 16px;
+  color: white;
+  margin-top: 50px;
+  margin-right: 100px;
+  margin-left: -100px;
+}
+
+.imgLogo2{
+  width: 81px;
+  height: 70px;
+}
+
+.columna2{
+  display: flex;
+  text-align: left;
+}
+
+.text3{
+  font-size: 24px;
+  color: white;
+}
+
+.fbLogo{
+  margin-top: 70px;
+  margin-left: -170px;
+}
+
+.facebook{
+  margin-top: -28px;
+  margin-bottom: 100px;
+  margin-left: -140px;
+}
+
+.instaLogo{
+  margin-top: -80px;
+  margin-left: -170px;
+  margin-bottom: 120px;
+}
+
+.instagram{
+  margin-top: -148px;
+  margin-bottom: 0px;
+  margin-left: -140px;
+}
+
+.twLogo{
+  margin-top: -155px;
+  margin-left: -170px;
+  margin-bottom: -20px;
+}
+
+.twitter{
+  margin-top: -8px;
+  margin-bottom: 0px;
+  margin-left: -140px;
+}
+
+.select-wrapper{
+
+}
+
+.select-wrapper input.select-dropdown {
+  font-size: 16px;
+  font-family: 'Asul', sans-serif;
+  color: #AEAEAE;
+}
+
+.svg.caret{
+    fill: rgb(117 117 117 / 87%);
+}
+
+.feedback{
+  background-color: #000000;
+  padding: 30px 50px;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-bottom: 30px;
+  align-items: center;
+  text-align: center;
+  color: white;
+  font-size: 16px;
+  font-family: 'Asul', sans-serif;
+}
+
+.genial{
+  text-align: center;
+  font-size: 34px;
+  font-family: 'Pirata One', cursive;
+  color: white;
+}
+
+}
